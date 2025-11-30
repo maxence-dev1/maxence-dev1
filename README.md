@@ -1,6 +1,11 @@
 Bonjour, je suis Maxence Julienne
 Etudiant en L2 informatique. Toujours en quête de savoir, je réalise plein de projets que vous pouvez découvrir ici :).
 
+## Statistiques GitHub
+![Contributions](https://github-readme-stats.vercel.app/api?username=maxence-dev1&show_icons=true&theme=radical)
+![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=maxence-dev1&layout=compact&theme=radical)
+
+
 <!--
 **maxence-dev1/maxence-dev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
