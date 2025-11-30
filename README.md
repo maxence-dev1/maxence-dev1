@@ -1,4 +1,5 @@
-## Hi there 👋
+Bonjour, je suis Maxence Julienne
+Etudiant en L2 informatique. Toujours en quête de savoir, je réalise plein de projets que vous pouvez découvrir ici :).
 
 <!--
 **maxence-dev1/maxence-dev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
