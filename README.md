@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Julienne Maxence</h1>
+<h1 align="center">Hi 👋, I'm Maxence Julienne </h1>
 <h3 align="center">I am a French computer science student . Always eager to learn, I work on small projects that you can find here :).</h3>
 
 
